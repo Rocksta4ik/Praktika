@@ -1,0 +1,14 @@
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.docstates
+_ReSharper.*/
+*.csproj.user
+*.pidb
+*.pdb
+*.exe
+*.dll
+*.json
+.DS_Store
